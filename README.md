@@ -1,11 +1,11 @@
 # S-Ayman
 pkg update && pkg upgrade -y
 
-git clone https://github.com/Vairous7x/V7x-Fishing2
+https://github.com/salah-ayman/S-Ayman.git
 
 pkg install pip3
 
-cd V7x-Fishing2
+cd S-Ayman
 
 pip3 install -r requirements.txt
 
